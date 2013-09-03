@@ -6,8 +6,9 @@ systems such as GNU/Linux or Windows.
 
 ## Usage
 To use these programs, you will have to either compile them yourself or download
-precompiled versions from the Releases section on GitHub.  If you want to compile
-them yourself, see the Compiling section below.
+precompiled versions from [the Releases section on
+GitHub](https://github.com/thirtythreeforty/smullprop/releases).  If you want to
+compile them yourself, see the Compiling section below.
 
 Once you have a runnable copy, launch it either by double-clicking on it (Windows) or
 invoking it from the command line (GNU/Linux, OS X) as follows:
